@@ -1,0 +1,6 @@
+Flask==1.1.2
+opencv_python==4.3.0.36
+Keras==2.4.3
+Werkzeug==1.0.1
+numpy==1.19.0
+scikit_learn==0.23.1
