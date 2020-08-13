@@ -22,3 +22,9 @@ I would love to have a demo linked here but running kubernetes clusters is kind 
 - [ ] Dockerize both client and the server
 - [ ] Write one docker compose file
 - [ ] Run on kubernetes
+
+# Note
+
+I couldn't upload the trained model cuz it's too big(over 300mb). So i'll write down some descriptions on how to run this thing soon.
+
+-- Louis --
